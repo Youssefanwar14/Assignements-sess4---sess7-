@@ -5,7 +5,7 @@ using System.Reflection.Metadata.Ecma335;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Assignements
+namespace Assignements.Classes
 {
     public class Duration
     {
